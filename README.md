@@ -1,3 +1,3 @@
-# BFS-JavaEE
+# BFS
 
-See instructions in Canvas
+My implementation of Breadth First Search
